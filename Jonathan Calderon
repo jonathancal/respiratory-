@@ -1,0 +1,5 @@
+jonathan.calderon@wsu.edu
+git add resume.pdf
+"my resume"
+name = ipnut('Enter name')
+(f' My name is {name}
